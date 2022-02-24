@@ -2,7 +2,7 @@
 
 
 
-> para ussar este proyecto 
+> para usar este proyecto 
 ```bash
 pip install -r requirement.txt
 python ./app.py
